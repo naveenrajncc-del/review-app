@@ -6,7 +6,9 @@ type Props = {
 
 const CodeEditor = ({ onSubmit }: Props) => {
   const [code, setCode] = useState('');
-console.log('CodeEditor rendered with code:', code);
+console.log('CodeEditor rendered with code: ', code);
+console.log('CodeEditor rendered with code: ', code);
+
   return (
     <div>
       <textarea
