@@ -9,6 +9,8 @@ const CodeEditor = ({ onSubmit }: Props) => {
 console.log('CodeEditor rendered with code: ', code);
 console.log('CodeEditor rendered with code: ', code);
 console.log('CodeEditor rendered with code: ', code);
+console.log('CodeEditor rendered with code: ', code);
+
 
 
   return (
